@@ -1,0 +1,10 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+# 윈도용 추가 설정
+. "$(dirname "$0")/common.sh"
+
+# NVM 대응
+export PATH="/opt/homebrew/bin:$PATH"
+
+# 실행할 코드
+yarn build

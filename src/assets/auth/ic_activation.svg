@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+    <circle data-name="타원 23" cx="35" cy="35" r="35" style="fill:none"/>
+    <g data-name="그룹 251">
+        <path data-name="패스 25920" d="M23.911 29.707v6.955a1.933 1.933 0 0 1-1.932 1.932H3.432A1.933 1.933 0 0 1 1.5 36.663V3.433A1.932 1.932 0 0 1 3.432 1.5h18.547a1.932 1.932 0 0 1 1.932 1.932V7.3" transform="translate(21.418 15.407)" style="stroke-miterlimit:10;stroke-width:2px;stroke:#262525;fill:none"/>
+        <path data-name="선 175" transform="translate(30.646 50.137)" style="stroke-miterlimit:10;stroke-width:2px;stroke:#262525;fill:none" d="M0 0h6.955"/>
+        <path data-name="패스 25921" d="m20.549 1.5-.719 2.471a1.931 1.931 0 0 1-1.855 1.392h-7.216A1.931 1.931 0 0 1 8.9 3.971L8.185 1.5" transform="translate(19.756 15.407)" style="stroke-miterlimit:10;stroke-width:2px;stroke:#262525;fill:none"/>
+        <path data-name="패스 25922" d="M21.454 27.5h10.8a2.1 2.1 0 0 0 2.095-2.095v-8.38a2.1 2.1 0 0 0-2.095-2.095H18.94a2.1 2.1 0 0 0-2.095 2.095v14.667z" transform="translate(17.603 12.068)" style="stroke-miterlimit:10;stroke-width:2px;stroke:#262525;fill:none"/>
+        <path data-name="패스 25924" d="M28.393 23.158a.419.419 0 1 0 .419-.419.419.419 0 0 0-.419.419z" transform="translate(14.733 10.127)" style="stroke-miterlimit:10;stroke-width:2px;stroke:#262525;fill:none"/>
+        <path data-name="패스 25925" d="M23.375 23.158a.419.419 0 1 0 .419-.419.419.419 0 0 0-.419.419" transform="translate(15.98 10.127)" style="fill:#999;stroke:#262525"/>
+        <path data-name="패스 25926" d="M23.375 23.158a.419.419 0 1 0 .419-.419.419.419 0 0 0-.419.419z" transform="translate(15.98 10.127)" style="fill:#262525;stroke-miterlimit:10;stroke-width:2px;stroke:#262525"/>
+        <path data-name="패스 25927" d="M33.412 23.158a.419.419 0 1 0 .419-.419.419.419 0 0 0-.419.419" transform="translate(13.485 10.127)" style="fill:#262525;stroke:#262525"/>
+        <path data-name="패스 25928" d="M33.412 23.158a.419.419 0 1 0 .419-.419.419.419 0 0 0-.419.419z" transform="translate(13.485 10.127)" style="fill:#262525;stroke-miterlimit:10;stroke-width:2px;stroke:#262525"/>
+        <path data-name="패스 25923" d="M28.393 23.158a.419.419 0 1 0 .419-.419.419.419 0 0 0-.419.419" transform="translate(14.733 10.127)" style="fill:#262525;stroke:#262525"/>
+    </g>
+</svg>

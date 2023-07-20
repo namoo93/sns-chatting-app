@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <path data-name="사각형 1097" style="opacity:.3;fill:none" d="M0 0h22v22H0z"/>
+    <g data-name="그룹 19">
+        <g data-name="사각형 16" transform="translate(10.196 4)" style="stroke:#262525;stroke-linecap:round;stroke-width:1.2px;fill:none">
+            <rect width="9.016" height="7.376" rx="1" style="stroke:none"/>
+            <rect x=".6" y=".6" width="7.816" height="6.176" rx=".4" style="fill:none"/>
+        </g>
+        <g data-name="사각형 17" transform="translate(10.196 12.835)" style="stroke:#262525;stroke-linecap:round;stroke-width:1.2px;fill:none">
+            <rect width="9.016" height="4.918" rx="1" style="stroke:none"/>
+            <rect x=".6" y=".6" width="7.816" height="3.718" rx=".4" style="fill:none"/>
+        </g>
+        <g data-name="사각형 18" transform="translate(3 4)" style="stroke:#262525;stroke-linecap:round;stroke-width:1.2px;fill:none">
+            <rect width="5.737" height="13.753" rx="1" style="stroke:none"/>
+            <rect x=".6" y=".6" width="4.537" height="12.553" rx=".4" style="fill:none"/>
+        </g>
+    </g>
+</svg>
